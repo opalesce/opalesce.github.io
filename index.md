@@ -2,8 +2,6 @@
 
 I'm using the [editor on GitHub](https://github.com/katiehdunn/katiehdunn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever I commit to the repository, GitHub Pages runs [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

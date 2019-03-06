@@ -25,7 +25,7 @@ khd-theme:
   date_format: "%b %-d, %Y"
 
 # Build settings
-remote_theme: katiehdunn/khd-theme
+remote_theme: opalesce/opalesce.github.io
 markdown: kramdown
 mathjax: true
 
